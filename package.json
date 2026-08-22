@@ -1,0 +1,12 @@
+{
+  "name": "minecraft-fighter-server",
+  "version": "1.0.0",
+  "description": "Online multiplayer server for Minecraft Platform Fighter",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.3"
+  }
+}
